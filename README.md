@@ -15,29 +15,29 @@ LoveGood
 -
 LoveGood/  <br/>
 ├── CSS/  公用的静态资源目录 <br/>
-│ ├── public.css
-│ ├── font
-│ ├── public.css
-│ ├── style.css
-├── images/ 
-├── JS/   第三方或自定义插件的目录
-│ ├── jquery.js
-│ ├── prefixfree.min.js
-│ ├── public.js
-│ ├── ss.js
-├── libs 公共库
-│ ├── html5.js 
-│ ├── ie6PNG.js
-├── 页面目录
-│ ├──  about.html 关于我们
-│ ├──  case.html  成功案例
-│ ├──  compass.html 数据罗盘
-│ ├──  contact.html 联系我们
-│ ├──  customer.html 客户服务
-│ ├──  feedback.html 反馈留言
-│ ├──  index.html 首页
-│ ├──  industry.html 行业资讯
-│ ├──  information.html 资讯中心
-│ ├──  learning.html 学术文献
-│ ├──  special.html 专题频道
-└──    public.html 公共部分
+│ ├── public.css <br/>
+│ ├── font <br/>
+│ ├── public.css <br/>
+│ ├── style.css <br/>
+├── images/  <br/>
+├── JS/   第三方或自定义插件的目录 <br/>
+│ ├── jquery.js <br/>
+│ ├── prefixfree.min.js <br/>
+│ ├── public.js <br/>
+│ ├── ss.js <br/>
+├── libs 公共库 <br/>
+│ ├── html5.js  <br/>
+│ ├── ie6PNG.js <br/>
+├── 页面目录 <br/>
+│ ├──  about.html 关于我们 <br/> 
+│ ├──  case.html  成功案例 <br/>
+│ ├──  compass.html 数据罗盘 <br/>
+│ ├──  contact.html 联系我们 <br/>
+│ ├──  customer.html 客户服务 <br/>
+│ ├──  feedback.html 反馈留言 <br/>
+│ ├──  index.html 首页 <br/>
+│ ├──  industry.html 行业资讯 <br/>
+│ ├──  information.html 资讯中心 <br/>
+│ ├──  learning.html 学术文献 <br/>
+│ ├──  special.html 专题频道 <br/> 
+└──    public.html 公共部分 <br/>
