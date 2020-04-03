@@ -13,8 +13,8 @@ LoveGood
 
 目录结构
 -
-LoveGood/  
-├── CSS/  公用的静态资源目录
+LoveGood/  <br/>
+├── CSS/  公用的静态资源目录 <br/>
 │ ├── public.css
 │ ├── font
 │ ├── public.css
